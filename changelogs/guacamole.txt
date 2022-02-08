@@ -1,0 +1,21 @@
+Device: OnePlus 7 Pro (guacamole)
+
+Highlights & Device Specific Changes:
+
+===== 12 October, 2021 =====
+
+- Merged October ASB.
+- Backported FUSE passthrough impl from Android S.
+
+===== 27 September, 2021 =====
+
+- Bug fixes & stability improvements.
+(Re-reviewed ~300 changes and performed a treewide rebase)
+
+===== 25 September, 2021 =====
+
+- Added face unlock support.
+
+===== 23 September, 2021 =====
+
+- Initial unofficial LineageOS build with OTA functionality.

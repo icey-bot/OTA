@@ -1,0 +1,8 @@
+Device: Redmi K30 Pro / Poco F2 Pro (lmi)
+
+Highlights & Device Specific Changes:
+
+===== 29 September, 2021 =====
+
+- Initial unofficial LineageOS build on the record.
+
