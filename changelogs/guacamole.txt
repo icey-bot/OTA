@@ -2,6 +2,11 @@ Device: OnePlus 7 Pro (guacamole)
 
 Highlights & Device Specific Changes:
 
+===== 19 February, 2022 ====
+
+- alpha3: https://review.project-ice.org/c/955
+- Merged February ASB.
+
 ===== 8 February, 2022 ====
 
 - alpha2! Bug fixes & stability improvements everywhere.
